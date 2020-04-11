@@ -22,4 +22,3 @@ if __name__ == "__main__":
     ans = uniquePaths(m,n)
     print(ans)
 
-

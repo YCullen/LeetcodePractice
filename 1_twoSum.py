@@ -14,5 +14,6 @@ def twoSum(nums,target):
 if __name__=='__main__':
     lst = [3,2,4]
     ans = twoSum(lst,6)
+    print(ans)
     ans = twoSum(lst,7)
     print(ans)
